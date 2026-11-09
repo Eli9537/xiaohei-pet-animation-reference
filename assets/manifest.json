@@ -1,0 +1,63 @@
+{
+  "identity_version": "XH_REF_V1_PHOTO",
+  "created_date": "2026-11-09",
+  "canonical_directory": "assets/reference/",
+  "legacy_directory": "archive/legacy-v2/",
+  "rear_view_note": "Rear appearance is an inferred consistent design based on the original photo, not an observed rear photograph.",
+  "assets": [
+    {
+      "path": "assets/reference/00-original-dog.jpg",
+      "canonical": true,
+      "bytes": 129573,
+      "sha256": "7f8365a55391d3beb481b7e6a8472af73052b4508b2cf68a1159e8374efdacee"
+    },
+    {
+      "path": "assets/reference/01-standing-three-views.png",
+      "canonical": true,
+      "bytes": 1893289,
+      "sha256": "de98371e0b0fd4e9f64751b1f959c139cfc9911737785c1a64754051f5a86a94"
+    },
+    {
+      "path": "assets/reference/02-sitting-three-views.png",
+      "canonical": true,
+      "bytes": 2025782,
+      "sha256": "9e7402be7f7534a088b545a541302ee7e538a43d6cf05474418203ee0a508020"
+    },
+    {
+      "path": "assets/reference/03-face-and-ear-three-views.png",
+      "canonical": true,
+      "bytes": 2197651,
+      "sha256": "0c075ca144ba426ea30ea5aae3fe67b7f853c081b8214fd9cabebc649768c1fa"
+    },
+    {
+      "path": "assets/reference/04-single-dog-first-frame.png",
+      "canonical": true,
+      "bytes": 1999213,
+      "sha256": "a3b64dfb0233ac0a17148f83d3009a526f6051a904fb4081c2804e45c9305c24"
+    },
+    {
+      "path": "archive/legacy-v2/images/xiaohei-all-poses.png",
+      "canonical": false,
+      "bytes": 806109,
+      "sha256": "b100133c25aaad900bc3b0edc41e5f5234db3475b75978aa26e7480afdc11b31"
+    },
+    {
+      "path": "archive/legacy-v2/images/xiaohei-idle.gif",
+      "canonical": false,
+      "bytes": 66509,
+      "sha256": "65150aa59eb247dac6107655eb88de8709f8edec4850d6c4f284d091231d2be9"
+    },
+    {
+      "path": "archive/legacy-v2/images/xiaohei-preview.png",
+      "canonical": false,
+      "bytes": 44351,
+      "sha256": "207ccd64313ba220328cb6883ffd780ed60b64439b644bebcb786f391de9d474"
+    },
+    {
+      "path": "archive/legacy-v2/package/spritesheet.webp",
+      "canonical": false,
+      "bytes": 2122452,
+      "sha256": "7271ba33fa886936e4c32b2bfafb3481890ecd5dcf8d0c0f52736c84240123e6"
+    }
+  ]
+}
